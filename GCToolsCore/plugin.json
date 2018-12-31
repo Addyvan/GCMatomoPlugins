@@ -1,0 +1,29 @@
+{
+  "name": "GCtools",
+  "description": "A general purpose matomo plugin for the OADW",
+  "version": "0.1.0",
+  "theme": false,
+  "require": {
+    "piwik": ">=3.8.0-b5,<4.0.0-b1"
+  },
+  "authors": [
+    {
+      "name": "Matomo",
+      "email": "",
+      "homepage": ""
+    }
+  ],
+  "support": {
+	    "email": "",
+	    "issues": "",
+	    "forum": "",
+	    "irc": "",
+	    "wiki": "",
+	    "source": "",
+	    "docs": "",
+	    "rss": ""
+  },
+  "homepage": "",
+  "license": "GPL v3+",
+  "keywords": []
+}

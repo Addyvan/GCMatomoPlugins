@@ -1,0 +1,19 @@
+{
+  "name": "gcmatomoplugins",
+  "version": "1.0.0",
+  "description": "A collection of plugins for matomo",
+  "scripts": {
+    "setup": "echo \"Installation not fully ironed out, see Addy for install details\" && ./scripts/install.sh",
+    "start": "./scripts/dev.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Addyvan/GCMatomoPlugins.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Addyvan/GCMatomoPlugins/issues"
+  },
+  "homepage": "https://github.com/Addyvan/GCMatomoPlugins#readme"
+}
