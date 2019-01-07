@@ -2,6 +2,8 @@ version: '2'
 services:
   mariadb:
     image: 'bitnami/mariadb:latest'
+    ports:
+      - "3306:3306"
     environment:
       - MARIADB_USER=matomo
       - MARIADB_DATABASE=matomo

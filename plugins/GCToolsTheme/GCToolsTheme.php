@@ -7,11 +7,11 @@
  *
  */
 
-namespace Piwik\Plugins\GCtoolsTheme;
+namespace Piwik\Plugins\GCToolsTheme;
 
 use Piwik\Plugin;
 
-class GCtoolsTheme extends Plugin
+class GCToolsTheme extends Plugin
 {
     public function getListHooksRegistered()
     {

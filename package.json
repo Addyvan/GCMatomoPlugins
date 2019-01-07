@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A collection of plugins for matomo",
   "scripts": {
-    "setup": "echo \"Installation not fully ironed out, see Addy for install details\" && ./scripts/install.sh",
+    "setup": "echo \"Installation not fully ironed out, see Addison for install details\" && ./scripts/install.sh",
     "start": "./scripts/dev.sh"
   },
   "repository": {

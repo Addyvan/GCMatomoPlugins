@@ -6,8 +6,8 @@
  * @license http://www.gnu.org/licenses/gpl-3.0.html GPL v3 or later
  */
 
-namespace Piwik\Plugins\GCtools;
+namespace Piwik\Plugins\MatomoConcierge;
 
-class GCtools extends \Piwik\Plugin
+class MatomoConcierge extends \Piwik\Plugin
 {
 }
